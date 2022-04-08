@@ -1,7 +1,9 @@
-  The "SQL and MongoDB" folder consists of example SQL queries and the creation of a connection to MongoDB.
-The purpose of the project is to create a host a SQLite database on MongoDB
-storing the RPG_DB.sqlite3 database and allowing for relational naviagtion.
+Hi! My name's Zachary, and I'm a Data Scientist interested in Neuroscience, Quantum Computing, Cyber Security and Astronautics.
 
-https://get-funded-inc.herokuapp.com/ is an app hosted on heroku that predicts whether a kickstarter
-campaign is likely to succeed or not. The repository for the coding is located at 
-https://github.com/ft-kickstarter-5/ft-kickstarter-5
+I am proficient in Python, SQL, Machine Learning / Predictive Modeling, Data Visualization, Cloud Hosting and API's.
+
+LinkedIn: https://www.linkedin.com/in/zackquintana
+
+Cell Phone:(623)_999_3945
+
+Email: zjquintana2001@gmail.com
